@@ -1,0 +1,8 @@
+.row {
+  margin: 15px;
+}
+
+.border {
+  border: 2px solid #000000;
+  /* Adjust the color and size as needed */
+}
