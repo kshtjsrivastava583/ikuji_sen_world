@@ -71,11 +71,11 @@
     font-size: 2.2rem;
   }
 
-  .speciality_section {
+  .offer_section {
     text-align: center;
   }
 
-  .speciality_section .content-box {
+  .offer_section .content-box {
 
     flex-direction: column;
     align-items: center;
@@ -84,14 +84,14 @@
   }
 
 
-  .speciality_section .content-box .img-box {
+  .offer_section .content-box .img-box {
     min-width: 100px;
     min-height: 85px;
     margin: 0;
     margin-bottom: 15px;
   }
 
-  .speciality_section .content-box .img-box svg {
+  .offer_section .content-box .img-box svg {
     width: 45px;
   }
 
